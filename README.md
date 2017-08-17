@@ -4,6 +4,7 @@ In August 2017 we [reported](http://www.bbc.co.uk/news/uk-england-40862975) that
 
 ## Get the data
 
+* [XLS: Driving licence data June 2017](https://github.com/BBC-Data-Unit/penalty-points/blob/master/Driving-Licence-data-june2017.xlsx)
 * [Data.gov.uk: GB Driving Licence Data](https://data.gov.uk/dataset/driving-licence-data)
 * Background document: [Penalty points (endorsements)](https://www.gov.uk/penalty-points-endorsements/endorsement-codes-and-penalty-points)
 
