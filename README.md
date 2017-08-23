@@ -1,5 +1,7 @@
 # Thousands of UK motorists can drive with over 12 points
 
+![](https://raw.githubusercontent.com/BBC-Data-Unit/penalty-points/master/penalty%20points%20infographic.png)
+
 In August 2017 we [reported](http://www.bbc.co.uk/news/uk-england-40862975) that more than 10,000 motorists are allowed on the roads despite having 12 or more penalty points on their licence.
 
 ## Get the data
